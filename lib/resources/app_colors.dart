@@ -5,7 +5,7 @@ class AppColors {
   static const Color menuBackground = Color(0xFF090912);
   static const Color itemsBackground = Color(0xFF1B2339);
   static const Color pageBackground = Color(0xFF282E45);
-  static const Color mainTextColor1 = Colors.white;
+  static const Color mainTextColor1 = Colors.black;
   static const Color mainTextColor2 = Colors.white70;
   static const Color mainTextColor3 = Colors.white38;
   static const Color mainGridLineColor = Colors.white10;
@@ -13,7 +13,7 @@ class AppColors {
   static const Color gridLinesColor = Color(0x11FFFFFF);
 
   static const Color contentColorBlack = Colors.black;
-  static const Color contentColorWhite = Colors.white;
+  static const Color contentColorWhite = Colors.black;
   static const Color contentColorBlue = Color(0xFF2196F3);
   static const Color contentColorYellow = Color(0xFFFFC300);
   static const Color contentColorOrange = Color(0xFFFF683B);
